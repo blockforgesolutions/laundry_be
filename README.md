@@ -1,4 +1,4 @@
-# AquaWash - Çamaşırhane Yönetim Sistemi
+# BYD - Çamaşırhane Yönetim Sistemi
 
 Modern ve kullanıcı dostu çamaşırhane yönetim sistemi. Backend Node.js/Express/TypeScript, Frontend React/TypeScript ile geliştirilmiştir.
 
