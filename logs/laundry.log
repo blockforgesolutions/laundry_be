@@ -1,0 +1,21 @@
+[2025-06-20T08:06:36.064Z] Yeni müşteri eklendi: Test Kullanıcı ()
+[2025-06-20T08:07:35.323Z] Çamaşır güncellendi: id=1, status=ready, shelf=B2
+[2025-06-20T08:07:45.546Z] Çamaşır güncellendi: id=1, status=ready, shelf=B2
+[2025-06-20T08:09:31.432Z] Çamaşır güncellendi: id=1
+, status=ready, shelf=B2
+[2025-06-20T08:14:34.989Z] Çamaşır güncellendi: id=1
+
+, status=ready, shelf=A3
+[2025-06-20T08:30:23.299Z] Çamaşır güncellendi: id=1
+
+, status=ready, shelf=A3
+[2025-06-20T08:51:34.076Z] Çamaşır güncellendi: id=1
+
+, status=ready, shelf=A3
+[2025-06-20T08:52:43.596Z] SMS gönderildi: 05551234567 → 📦 Sayın Ahmet Yılmaz, çamaşırınız hazır. Raf kodu: A3
+[2025-06-20T08:52:43.596Z] Çamaşır güncellendi: id=3
+
+, status=ready, shelf=A3
+[2025-06-26T08:47:33.949Z] Yeni müşteri eklendi: barbaros (05335253235)
+[2025-06-26T09:00:33.919Z] Yeni müşteri eklendi: maden (55519348423)
+[2025-06-26T09:53:54.020Z] Yeni müşteri eklendi: ayşe (05512552252)
